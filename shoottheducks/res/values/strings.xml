@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shoot the Ducks</string>
+    <string name="menu_start">Start</string>
+    <string name="menu_stop">Stop</string>
+    <string name="menu_highscores">High Scores</string>
+    <string name="menu_exit">Exit</string>
+    <string name="menu_sound">Sound</string>
+    <string name="mode_ready">Welcome to Shoot the Ducks\nUse the Trackball &amp; Touch Screen to play\n\nGetting 2000 points is OK\n3000 points is a challenge!\n\nTouch to Start Level 1\n</string>
+	<string name="mode_pause">Paused\nTouch To Resume\n</string>
+	<string name="mode_lose">Game Over\nTouch To Restart\n</string>
+	<string name="mode_win_prefix">Success!\n</string> 
+	<string name="mode_win_suffix">in a row\nPress Up to Play\n</string> 
+</resources>
