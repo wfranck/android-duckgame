@@ -1,0 +1,1 @@
+Android Duck Shooting Game for HVGA/WVGA screens
